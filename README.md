@@ -4,9 +4,9 @@
 
 Here are some tools for program analysis. I strongly recommend you to implement algorithms on them.
 
-`LLVM`: the `Clang Static Analyzer` is a awesome tool to analyze C/C++ from AST level. And `LLVM Pass` provides a more low-level IR to analyze.
-`Soot`: tools for Java program anlysis and optimization
-`BAP`: Binary Analysis Platform. Written in OCaml. We can inspect customize IR `BIL` to analyze different binary.
+- `LLVM`: the `Clang Static Analyzer` is a awesome tool to analyze C/C++ from AST level. And `LLVM Pass` provides a more low-level IR to analyze.
+- `Soot`: tools for Java program anlysis and optimization
+- `BAP`: Binary Analysis Platform. Written in OCaml. We can inspect customize IR `BIL` to analyze different binary.
 
 ## Intro
 
