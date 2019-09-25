@@ -10,7 +10,7 @@ Here are some tools for program analysis. I strongly recommend you to implement 
 
 ## Intro
 
-Normally, the basic parts include dataflow analysis frameword, pointer analysis, and abstract interpretation (baby level of course).
+Normally, the basic parts include dataflow analysis frameword (reachiing definition, available expression, ...), pointer analysis (andreson and steensgaard), and abstract interpretation (sign analysis).
 
 - Courses:
   - [UW CSE 501](https://courses.cs.washington.edu/courses/cse501/15sp/): Personally recommend, the contents are more compacted.
