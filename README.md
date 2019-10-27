@@ -27,6 +27,7 @@ Normally, the basic parts include dataflow analysis frameword (reachiing definit
 - Shape Analysis;
   - [Shape Analysis by WISC](https://research.cs.wisc.edu/wpis/papers/cc2000.pdf): Introduce shape analysis for heap
   - [Shape Analysis and Applications by UT](https://personal.utdallas.edu/~zhiqiang.lin/file/f15/shape-analysis-ch12.pdf)
+- Abstract Interpretation: [16.399 by MIT](http://web.mit.edu/16.399/www/) 
 
 ## Binary Analysis
 
